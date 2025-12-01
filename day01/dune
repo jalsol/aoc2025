@@ -1,4 +1,4 @@
 (executables
- (names p1)
- (modules common p1)
+ (names main)
+ (modules main p1 p2)
  (libraries aoc core))

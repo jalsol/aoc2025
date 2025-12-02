@@ -1,0 +1,4 @@
+(executables
+ (names main)
+ (modules main p1 p2)
+ (libraries aoc core))

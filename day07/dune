@@ -1,0 +1,5 @@
+(executables
+ (names main)
+ (modules main)
+ (libraries aoc core)
+ (preprocess (pps ppx_jane)))
